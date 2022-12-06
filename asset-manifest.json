@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cute-dice-game/static/css/main.17987605.css",
-    "main.js": "/cute-dice-game/static/js/main.cb385139.js",
+    "main.css": "/cute-dice-game/static/css/main.740c3f33.css",
+    "main.js": "/cute-dice-game/static/js/main.50e8fff7.js",
     "static/js/787.cf43c46e.chunk.js": "/cute-dice-game/static/js/787.cf43c46e.chunk.js",
     "index.html": "/cute-dice-game/index.html",
-    "main.17987605.css.map": "/cute-dice-game/static/css/main.17987605.css.map",
-    "main.cb385139.js.map": "/cute-dice-game/static/js/main.cb385139.js.map",
+    "main.740c3f33.css.map": "/cute-dice-game/static/css/main.740c3f33.css.map",
+    "main.50e8fff7.js.map": "/cute-dice-game/static/js/main.50e8fff7.js.map",
     "787.cf43c46e.chunk.js.map": "/cute-dice-game/static/js/787.cf43c46e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17987605.css",
-    "static/js/main.cb385139.js"
+    "static/css/main.740c3f33.css",
+    "static/js/main.50e8fff7.js"
   ]
 }
